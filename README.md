@@ -1,6 +1,8 @@
 # oneDNN
 
 HOW TO RUN:
+
+
 1 downlaod INTELONE API toolkit from intel's official website
 
 
