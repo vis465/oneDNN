@@ -12,7 +12,7 @@ HOW TO RUN:
 3 download required packages ex:vcpkg,opencv
 
 
-4 use visualstduio to run the file
+4 use only visualstudio to run the file
 
 data sets:
 
