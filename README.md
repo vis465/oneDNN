@@ -14,7 +14,9 @@ leveraging the power of heterogeneous hardware architectures, such as CPUs,
 GPUs, and FPGAs.With SYCL, we optimized our classification algorithms for parallel processing, enabling faster and more accurate diagnosis
 
 
-This project was a part of Intel One Api challenge - 2023 hosted by Intel and Hack2skill.This project was awarded the Runner up position in the  Same.
+This project was a part of Intel One Api challenge - 2023 hosted by Intel and Hack2skill.This project was awarded the Runner up position in the Same.
+
+
 ---
 
 # 📍 What is OneAPI
