@@ -4,7 +4,7 @@ ONEDNN</h1>
 
 </div>
 
-## Project overview
+## 📍 Project overview
 **Medical Image Processing - Pneumonia classification**
 
    Pneumonia is a prevalent respiratory infection that requires accurate and timely
@@ -13,6 +13,8 @@ for the classification of pneumonia in medical image processing. SYCL served as 
 leveraging the power of heterogeneous hardware architectures, such as CPUs,
 GPUs, and FPGAs.With SYCL, we optimized our classification algorithms for parallel processing, enabling faster and more accurate diagnosis
 
+
+This project was a part of Intel One Api challenge - 2023 hosted by Intel and Hack2skill.This project was awarded the Runner up position in the  Same.
 ---
 
 # 📍 What is OneAPI
@@ -49,7 +51,7 @@ applications enabled with oneDNN.
 
 
 ---
-## Datasets:
+##📍  Datasets:
 
 
 1 Data sets are downloaded from kaggle 
@@ -104,7 +106,7 @@ cd oneDNN
    
 4. Import project in Visual studio IDE and run the ***Pneumonia Prediction.cpp***
 
-## Output and Analysis Workflow
+## 📍 Output and Analysis Workflow
 
 **SYCL output with runtime**
 <img src="https://drive.google.com/uc?id=1rAKjAyYELabCE_uXoL5uaSZJ1XhNmdVX" alt="Image Description">
