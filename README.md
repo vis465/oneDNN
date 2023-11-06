@@ -85,26 +85,24 @@ Please ensure you have the following dependencies installed on your system:
 
 ### 🔧 Installation
 
+1.Download and install INTEL ONE API toolkit from intel's website
+
+2.Setup Visual studio IDE
+
 1. Clone the oneDNN repository:
 ```sh
 git clone https://github.com/vis465/oneDNN
 ```
 
-2. Change to the project directory:
+2. Change to the project directory :
 ```sh
 cd oneDNN
 ```
 
-3. Install the dependencies:
-```sh
-g++ -o myapp 'Pneumonia Prediction.cpp'
-```
+3. Install the dependencies (VCPKG, openCV )
 
-### 🤖 Running oneDNN
-
-```sh
-./a
-```
+   
+4. Import project in Visual studio IDE and run the ***Pneumonia Prediction.cpp***
 
 ## Output and Analysis Workflow
 
